@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\employeeManagementSystem",
+    "\\employeeManagementSystem\\src",
+    "\\employeeManagementSystem\\src\\main",
+    "\\employeeManagementSystem\\src\\main\\java",
+    "\\employeeManagementSystem\\src\\main\\java\\com",
+    "\\employeeManagementSystem\\src\\main\\java\\com\\example",
+    "\\employeeManagementSystem\\src\\main\\java\\com\\example\\employeeManagementSystem",
+    "\\employeeManagementSystem\\src\\main\\java\\com\\example\\employeeManagementSystem\\repository",
+    "\\employeeManagementSystem\\src\\main\\java\\com\\example\\employeeManagementSystem\\service"
+  ],
+  "SelectedNode": "\\employeeManagementSystem\\src\\main\\java\\com\\example\\employeeManagementSystem\\repository\\EmployeeRepo.java",
+  "PreviewInSolutionExplorer": false
+}
